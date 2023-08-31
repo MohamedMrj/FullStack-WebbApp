@@ -1,5 +1,3 @@
-```markdown
-
 ![restapi](https://github.com/MohamedMrj/FullStack-WebbApp/assets/113178714/f29901e2-3e79-4eab-91ae-e0b1af2037bd)
 
 # User Management System - FastAPI Backend
@@ -88,6 +86,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-You can copy and paste this content into a README.md file in your GitHub repository. Make sure to replace placeholders like `your-username`, `your-repo-name`, and `project_logo.png` with the appropriate values for your project. Additionally, customize the content according to your project's specific details.
